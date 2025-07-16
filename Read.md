@@ -6,7 +6,6 @@ This engine is developed as an individual project to build a scalable and effici
 
 🧠 Problem Statement
 Customers often struggle to find relevant products due to the overwhelming variety. This recommendation engine aims to:
-
 Suggest relevant products using collaborative filtering.
 Process millions of reviews efficiently.
 Handle real-time or incremental updates.
