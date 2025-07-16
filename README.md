@@ -84,5 +84,5 @@ Customers often struggle to find relevant products due to the overwhelming varie
 
 ## 👨‍💻 Author
 
-Developed by **Vasu Arora**  
+Developed by **Mithilesh Gadhe**  
 
